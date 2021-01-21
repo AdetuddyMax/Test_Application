@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Rougelike</string>
+    <string name="edit_message">Test</string>
+    <string name="Button_send">Send</string>
+</resources>
